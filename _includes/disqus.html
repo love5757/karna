@@ -3,8 +3,11 @@
 <div id="disqus_thread"></div>
 </div>
 <script src={{ "/js/jquery.min.js" | prepend: site.baseurl }}></script>
+<script id="dsq-count-scr" src="//yerina.disqus.com/count.js" async></script>
 <script>
 $(document).ready(function() {
+    
+    
     $('.show-comments').on('click', function(){
           var disqus_shortname = '{{site.disqus-shortname}}'; 
 

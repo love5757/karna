@@ -1,12 +1,12 @@
 
 title: Yerina
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+desctiption: love5757.github.io
+url: love5757.github.io
 permalink: ':title/'
 
 markdown: kramdown
 baseurl:
-full-version: "http://webjeda.com/karna-full/"
+full-version: "love5757.github.io"
 
 sass:
     style: compressed
